@@ -21,7 +21,7 @@
 📄  &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1kezXLQeboyABixeKhyAZMQsGaPeddLaT/view?usp=drive_link) for more details about me.
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
-<img alt="Night Coding" src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/JSaez97/JSaez97/refs/heads/assets/giphydata.webp" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
