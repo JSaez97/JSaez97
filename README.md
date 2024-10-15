@@ -7,8 +7,6 @@
 <p align="center"> 
 </p>
 
-<img alt="Hand Wave" src="./assets/hand-wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Javier Saez Rivera</h2>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡  &nbsp;I'm a passionate Data Scientist and Geologist with over a year of experience in the mining industry and geological consulting.\
