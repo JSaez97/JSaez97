@@ -77,13 +77,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/javiersaezr"><<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Javier%20S%C3%A1ez-blue?logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaviersaezr%2F">
-></a>
+<a href="https://linkedin.com/in/javiersaezr"><<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-Javier%20S%C3%A1ez-blue?logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaviersaezr%2F"></a>
 <a href="mailto:javiersaezrivera97@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-https://img.shields.io/badge/Linkedin%2CJavier%20S%C3%A1ez%2C%20White
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
