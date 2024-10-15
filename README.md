@@ -18,5 +18,5 @@
 🚀  &nbsp;I’m always eager to learn new tools and techniques, currently focusing on deep learning, cloud computing and geospatial analysis.\
 💬  &nbsp;Feel free to reach out for collaboration, consulting, or just an interesting conversation on data or geology!\
 ✉️  &nbsp;You can contact me at javiersaezrivera97@gmail.com. I'll respond as soon as possible.\
-📄  &nbsp;Check out my Résumé for more details about me.\
+📄  &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1kezXLQeboyABixeKhyAZMQsGaPeddLaT/view?usp=drive_link) for more details about me.\
 
