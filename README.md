@@ -77,9 +77,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/javiersaezr"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/javiersaezr"><img src="https://img.shields.io/badge/Linkedin%2CJavier%20S%C3%A1ez%2C%20White&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:javiersaezrivera97@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+https://img.shields.io/badge/Linkedin%2CJavier%20S%C3%A1ez%2C%20White
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
