@@ -27,7 +27,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,flask,fastapi" />
+    <img src="https://skillicons.dev/icons?i=java,py,flask,fastapi,pytorch,sklearn, tensorflow" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,anaconda" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda" />
   </a>
 </p>
 
