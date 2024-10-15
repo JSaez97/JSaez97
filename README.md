@@ -55,7 +55,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda,salesforce" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda" />
   </a>
 </p>
 
