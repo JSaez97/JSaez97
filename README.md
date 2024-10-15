@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Javier Sáez 👋🚀, I'm S </h1>
+<h1 align="center">Hello there, I'm Javier Sáez 👋🚀 </h1>
 
 ![Javier_Saez_Banner](https://github.com/JSaez97/JSaez97/blob/assets/Javier_Saez_Banner.png)
 
