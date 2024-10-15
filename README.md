@@ -20,7 +20,7 @@
 📄  &nbsp;For more information about me, feel free to take a look at my [Résumé](https://drive.google.com/file/d/1kezXLQeboyABixeKhyAZMQsGaPeddLaT/view?usp=drive_link).
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/JSaez97/JSaez97/refs/heads/assets/giphydata.webp" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/JSaez97/JSaez97/refs/heads/assets/giphydata.webp" align="right" width="300" height="auto"/>
 
 ### 🛠 &nbsp;Tech Stack
 
