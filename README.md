@@ -17,7 +17,7 @@
 💻  &nbsp;With strong skills in Python, SQL, Power BI, and Tableau, I thrive in creating insightful data solutions and visualizations.\
 🚀  &nbsp;I’m always eager to learn new tools and techniques, currently focusing on deep learning, cloud computing and geospatial analysis.\
 ✉️  &nbsp;If you’re interested in collaboration, consulting, or just having an engaging conversation about data or geology, feel free to contact me at javiersaezrivera97@gmail.com, and I’ll respond as soon as possible!\
-📄  &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1kezXLQeboyABixeKhyAZMQsGaPeddLaT/view?usp=drive_link) for more details about me.
+📄  &nbsp;For more information about me, feel free to take a look at my [Résumé](https://drive.google.com/file/d/1kezXLQeboyABixeKhyAZMQsGaPeddLaT/view?usp=drive_link).
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/JSaez97/JSaez97/refs/heads/assets/giphydata.webp" align="right"/>
