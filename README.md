@@ -20,3 +20,5 @@
 ✉️  &nbsp;You can contact me at javiersaezrivera97@gmail.com. I'll respond as soon as possible.\
 📄  &nbsp;Check out my [Résumé](https://drive.google.com/file/d/1kezXLQeboyABixeKhyAZMQsGaPeddLaT/view?usp=drive_link) for more details about me.\
 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
+
