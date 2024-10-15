@@ -5,9 +5,6 @@
 <h3 align="center">A passionate and curious Data Scientist and Geologist from Chile🌍</h3>
 <p align="center"> I am driven by the ability of data to unlock solutions to complex problems, especially in geology 🌋. Since discovering the power of combining data science with my geological background, I've been applying machine learning and analytical tools to address Earth-related challenges. But my curiosity doesn’t stop there—I am eager to explore diverse fields where data can make a real impact, leveraging my skills to solve intricate problems across industries. 💻🔍</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
 <!--
