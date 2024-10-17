@@ -73,7 +73,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
 
-### ⚙️ &nbsp;Projects in Progress
+### 🧪 &nbsp;Projects in Progress
 
 🐓  &nbsp;Chicken Disease Classification
 
