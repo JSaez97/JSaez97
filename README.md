@@ -2,7 +2,7 @@
 
 ![Javier_Saez_Banner](https://github.com/JSaez97/JSaez97/blob/assets/Javier_Saez_Banner.png)
 
-<h3 align="center">A passionate and curious Data Scientist and Geologist from Chile🌍</h3>
+<h3 align="center">A passionate and curious Data Scientist, Salesforce Developer and Geologist from Chile🌍</h3>
 <p align="center"> I am driven by the ability of data to unlock solutions to complex problems, especially in geology 🌋. Since discovering the power of combining data science with my geological background, I've been applying machine learning and analytical tools to address Earth-related challenges. But my curiosity doesn’t stop there—I am eager to explore diverse fields where data can make a real impact, leveraging my skills to solve intricate problems across industries. 💻🔍</p>
 <p align="center"> 
 </p>
