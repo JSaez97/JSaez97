@@ -48,7 +48,7 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws" />
   </a>
 </p>
 
