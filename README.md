@@ -75,7 +75,7 @@
 
 ### 🧪 &nbsp;Projects in Progress
 
-🐓  &nbsp;Chicken Disease Classification
+⛰️  &nbsp;Real-Time Subsurface Clustering for Reservoir Potential Assessment in Oil and Gas Exploration Using MLOps
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
 
